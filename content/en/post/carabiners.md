@@ -7,5 +7,4 @@ title: "Carabiners Now in Stock-change-feature/luis"
 
 Carabiners for sale!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-inciddidunt u labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+new update 
